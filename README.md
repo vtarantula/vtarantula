@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vtarantula
 - 👀 I’m interested in coding for Linux
-- 🌱 I’m currently learning python, nodejs and c++
+- 🌱 I’m currently learning python, golang and c++
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
